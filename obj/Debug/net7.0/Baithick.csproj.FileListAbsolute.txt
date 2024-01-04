@@ -1,0 +1,14 @@
+D:\THIKTHP\Baithick\bin\Debug\net7.0\Baithick.exe
+D:\THIKTHP\Baithick\bin\Debug\net7.0\Baithick.deps.json
+D:\THIKTHP\Baithick\bin\Debug\net7.0\Baithick.runtimeconfig.json
+D:\THIKTHP\Baithick\bin\Debug\net7.0\Baithick.dll
+D:\THIKTHP\Baithick\bin\Debug\net7.0\Baithick.pdb
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.AssemblyInfoInputs.cache
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.AssemblyInfo.cs
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.csproj.CoreCompileInputs.cache
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.dll
+D:\THIKTHP\Baithick\obj\Debug\net7.0\refint\Baithick.dll
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.pdb
+D:\THIKTHP\Baithick\obj\Debug\net7.0\Baithick.genruntimeconfig.cache
+D:\THIKTHP\Baithick\obj\Debug\net7.0\ref\Baithick.dll
